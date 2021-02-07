@@ -58,22 +58,23 @@ career-profile:
 
 
 education:
+    - degree: MSc in Software Engineering & Management
+      university: Gothenburg University | Chalmers, Sweden
+      time: 2020 - 2021
+      details: | 
+        SE 
+  
     - degree: MSc in Computer Science & Engineering
-      university: Gothenburg University | Chalmers
+      university: Gothenburg University | Chalmers, Sweden
       time: 2018 - 2020
       details: |
-        - Development and Continues Integration of Ericsson VTF Baseband 
-        - 5G NR High Band XFT Development, node tests and Continuous Integration.
+        CSE
 
     - degree: B.Tech in in Computer Science & Engineering
       university: AIACTR, New Delhi, India
       time: 2007 - 2011
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+        CSE
           - Bullet point
           - Bullet point
 experiences:
