@@ -7,67 +7,66 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    name: Himanshu Chuphal
+    tagline: Software Engineer
+    avatar: hchuphal.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
+    email: himanshu.chuphal07@gmail.com
+    phone: +46- 733 1272 38
+    website: github.com/hchuphal #do not add http://
+    linkedin: himanshuchuphal 
+    github: hmanshu_chuphal
     telegram: # add your nickname without '@' sign
-    gitlab:
+    gitlab: 
     bitbucket:
-    twitter: '@webjeda'
+    twitter: '@hmanshu_chuphal'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
-      - idiom: English
+      - idiom: Hindi
         level: Native
 
-      - idiom: French
+      - idiom: English
         level: Professional
 
-      - idiom: Spanish
-        level: Professional
+      - idiom: Swedish
+        level: C-Level
 
     interests:
-      - item: Climbing
+      - item: Badminton
         link:
 
-      - item: Snowboarding
+      - item: Tennis
         link:
 
-      - item: Cooking
+      - item: Running
         link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Masters in computer science & Engineering with strong technical and communication skills 
+      with a keen interest in the field of Computer System Programming, Operating Systems and Computer Networks
+      
+      - Good working experience in Software Engineering & Development, Computer Algorithms, Data Structures and Agile Methodologies
+      - trong Coding & Debugging Skills and working experience in C, Erlang, Java, Embedded C, Python, Perl, XML, shell scripting, SoapUI and REST
+      - Over 8+ years of experience in working on 3GPP Wireless Protocol Stack Long Term Evolution (LTE, 4G) and 5G NR Layer2 implementation, Core Network, Self-Optimized Networks applications and E2E Continuous Integration
+      - Proficient with MS Office Suite, MAC, GIT, Jenkins, Gerrit, Jira, Eclipse, Ubuntu, Linux/Unix, Solaris and RHEL
+
+
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: MSc in Computer Science & Engineering
+      university: Gothenburg University | Chalmers
+      time: 2018 - 2020
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
+        - Development and Continues Integration of Ericsson VTF Baseband 
+        - 5G NR High Band XFT Development, node tests and Continuous Integration.
+
+    - degree: B.Tech in in Computer Science & Engineering
+      university: AIACTR, New Delhi, India
       time: 2007 - 2011
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
@@ -78,113 +77,69 @@ education:
           - Bullet point
           - Bullet point
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Software Developer
+      time: 2018 - Present
+      company: Ericsson AB, Sweden
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
+        - Development and Continues Integration of Ericsson VTF Baseband 
+        - 5G NR High Band XFT Development, node tests and Continuous Integration
+
     - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+      time: 2014 - 2018
+      company: Cisco Systems, Banglore, India
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+       - Development of Cisco SON Software Application solution and OSS services supporting multiple vendors (NSN, Ericsson ENM, ALU, ZTE, Samsung etc.) and deployment in customer networks in the US.
+       - Integration with CISCO LTE small cell devices with Broadcom BCM61765 Dual mode (4G+3G) chipset. 
+
+    - role: Software Engineer
+      time: 2011 - 2014
+      company: Altran (Aricent Group), India
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+       - LTE framework development (Layer2), Integration with 
+       Picochip Kontron hardware Board and L1 layer and deployment in customer networks in South Korea and UK.
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      Side Projects:
     assignments:
-      - title: Velocity
+      - title: Google Apps
         link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: "Web Administrator, Google Apps for Ambedkar Institute of Technology, Delhi. "
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: Intrusion Detection System
+        link: "#hook"
+        tagline: "Intrusion Detection System Using Digital Camera for Department of Information Technology, 
+        Ministry of Communication & Information Technology, New Delhi"
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: CDAC India
+        link: "#hook"
+        tagline: "Industrial Project Training at C-DAC Centre Noida"
 
 publications:
     title: Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+      List of publications :
     papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: Benchmarking Deep Learning Testing Techniques A Methodology and Its Application
+        link: "https://gupea.ub.gu.se/handle/2077/65507"
+        authors: Chuphal, Himanshu and D Kristiyan
+        conference: upea.ub.gu.se, 2020
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Python 
         level: 98%
 
-      - name: Javascript & jQuery
+      - name: C
         level: 98%
 
-      - name: Angular
-        level: 98%
+      - name: Erlang
+        level: 60%
 
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
+      - name: Java
         level: 60%
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    Drop me an email if you are interested in me coding for you, research or technical discussions : himanshu.chuphal07@gmail.com
