@@ -37,12 +37,15 @@ sidebar:
 
     interests:
       - item: Badminton
-        link:
+        link: https://goteborgsbk.com/interna-uppgorelser-i-ulricehamn
 
       - item: Tennis
         link:
 
       - item: Running
+        link:
+     
+      - item: Photography 
         link:
 
 career-profile:
@@ -94,7 +97,7 @@ experiences:
       company: Cisco Systems, Banglore, India
       details: |
        - Development of Cisco SON Software Application solution and OSS services supporting multiple vendors (NSN, Ericsson ENM, ALU, ZTE, Samsung etc.)
-       - Development experience in Cisco Son R&D centre in Israel.
+       - Development experience in Cisco SON R&D centre in Israel
        - Deployment in customer networks in the US
        - Integration with CISCO LTE small cell devices with Broadcom BCM61765 Dual mode (4G+3G) chipset
 
