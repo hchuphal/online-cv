@@ -48,12 +48,12 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Masters in computer science & Engineering with strong technical and communication skills 
+      Masters in Computer Science & Engineering with strong technical and communication skills 
       with a keen interest in the field of Computer System Programming, Operating Systems and Computer Networks
       
       - Good working experience in Software Engineering & Development, Computer Algorithms, Data Structures and Agile Methodologies
-      - Strong Coding & Debugging Skills and working experience in C, Erlang, Java, Embedded C, Python, Perl, XML, shell scripting, SoapUI and REST
-      - Over 8+ years of experience in working on 3GPP Wireless Protocol Stack Long Term Evolution (LTE, 4G) and 5G NR Layer2 implementation, Core Network, Self-Optimized Networks applications and E2E Continuous Integration
+      - Strong Coding & Debugging Skills and working experience in C, Python, Erlang, Java, Embedded C, C++, Perl, XML, shell scripting, SoapUI and REST
+      - Over 9+ years of experience in working on 3GPP Wireless Protocol Stack Long Term Evolution (LTE, 4G) and 5G NR Layer2 implementation, Core Network, Self-Optimized Networks applications and E2E Continuous Integration
       - Proficient with MS Office Suite, MAC, GIT, Jenkins, Gerrit, Jira, Eclipse, Ubuntu, Linux/Unix, Solaris and RHEL
 
 
@@ -83,14 +83,20 @@ experiences:
       company: Ericsson AB, Sweden
       details: |
         - Development and Continues Integration of Ericsson VTF Baseband 
-        - 5G NR High Band XFT Development, node tests and Continuous Integration
+        - 5G NR High Band XFT Development, node tests and continuous Integration
+        - 5G IODT integration Support at Qualcomm, San Diego, US
+        - XFT uplink layer1 feature development & integration and Team Guardian
+        - Working experience with QC QXDM, Viavi Aeroföex TM500/D500 UE simulators and network test controllers
+        - XFT Baseband Security Master
 
     - role: Senior Software Engineer
       time: 2014 - 2018
       company: Cisco Systems, Banglore, India
       details: |
-       - Development of Cisco SON Software Application solution and OSS services supporting multiple vendors (NSN, Ericsson ENM, ALU, ZTE, Samsung etc.) and deployment in customer networks in the US.
-       - Integration with CISCO LTE small cell devices with Broadcom BCM61765 Dual mode (4G+3G) chipset. 
+       - Development of Cisco SON Software Application solution and OSS services supporting multiple vendors (NSN, Ericsson ENM, ALU, ZTE, Samsung etc.)
+       - Development experience in Cisco Son R&D centre in Israel.
+       - Deployment in customer networks in the US
+       - Integration with CISCO LTE small cell devices with Broadcom BCM61765 Dual mode (4G+3G) chipset
 
     - role: Software Engineer
       time: 2011 - 2014
@@ -140,6 +146,9 @@ skills:
         level: 60%
 
       - name: Java
+        level: 60%
+     
+      - name: C++
         level: 60%
 
 footer: >
