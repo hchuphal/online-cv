@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Himanshu Chuphal
-    tagline: MSc., Software Engineer
+    tagline: MSc., Senior Software Engineer
     avatar: hchuphal.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -81,14 +81,15 @@ education:
           - Bullet point
           - Bullet point
 experiences:
-    - role: Software Developer
+    - role: Senior Software Developer | Scrum Master
       time: 2018 - Present
       company: Ericsson AB, Sweden
       details: |
-        - Development and Continues Integration of Ericsson VTF Baseband 
+        - Development of Packet core services and platform
+        - Support for multiple cloud-native applications for multiple operators across the world
+        - Development and Continues Integration of Ericsson Baseband products
         - 5G NR High Band XFT Development, node tests and continuous Integration
         - 5G IODT integration Support at Qualcomm, San Diego, US
-        - XFT uplink layer1 feature development & integration node testing 
         - Working experience with QC QXDM, Viavi Aeroflex TM500/D500 UE simulators and other network test controllers
         - Uplink layer1 Team Guardian and XFT Baseband Security Master
         - Ericsson certified Security Master within Baseband Development Unit Networks
@@ -108,6 +109,16 @@ experiences:
       details: |
        - LTE framework development (Layer2), Integration with 
        Picochip Kontron hardware Board and L1 layer and deployment in customer networks in South Korea and UK.
+
+Certifications:
+    title: Certifications
+    intro: |
+      Certifications :
+    Certifications:
+      - title: CKAD (Certified Kubernetes Application Developer)
+        date: Feb 2024
+        link: "https://www.credly.com/badges/8b0261f7-3758-4955-868a-d6bedb235359/public_url"
+
 projects:
     title: Projects
     intro: >
@@ -145,6 +156,9 @@ skills:
 
       - name: C
         level: 98%
+
+      - name: Golang
+        level: 70%
 
       - name: Erlang
         level: 60%
