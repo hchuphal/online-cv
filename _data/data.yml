@@ -110,10 +110,10 @@ experiences:
        - LTE framework development (Layer2), Integration with 
        Picochip Kontron hardware Board and L1 layer and deployment in customer networks in South Korea and UK.
 
-Certifications:
+certifications:
     title: Certifications
-    intro: |
-      Certifications :
+    intro: >
+      Certifications:
     Certifications:
       - title: CKAD (Certified Kubernetes Application Developer)
         date: Feb 2024
